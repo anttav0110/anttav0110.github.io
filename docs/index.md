@@ -7,12 +7,15 @@ However, some of its features are not obvious, nor enabled by default, leading t
 Our guide aims to show VT students the tools they have available to maximize their productivity within Outlook.
 
 
->[!Note] Note: This guide is made with the following Outlook interfaces in mind:
->- Outlook website
->- "New" Outlook app (Windows and macOS)
->- Mobile app (iOS and Android)
->
->However, these instructions will primarily focus on the Outlook website and desktop apps. The mobile apps will only be discussed if there are significant differences in the interfaces. 
+!!! note
+
+    Note: This guide is made with the following Outlook cinterfaces in mind:
+    - Outlook website
+    - "New" Outlook app (Windows and macOS)
+    - Mobile app (iOS and Android)
+
+    However, these instructions will primarily focus on the Outlook website and desktop apps. The mobile apps will only be discussed if there are significant differences in the interfaces. 
+
 
 
 ## Table of Contents
@@ -44,8 +47,9 @@ Our guide aims to show VT students the tools they have available to maximize the
 ## Email Options
 
 These settings change the look and feel of your Outlook inbox, and can help you save time on automatable tasks, improving workflow.
->[!Note] 
-Some options may be separate depending on whether you are on PC or Mobile; thus, it is important to check settings for both for consistency across devices
+!!! note
+
+    Some options may be separate depending on whether you are on PC or Mobile; thus, it is important to check settings for both for consistency across devices
 
 ### Folders
 
@@ -60,12 +64,14 @@ Outlook folders bring organization to your inbox, enabling you to have multiple 
 #### Using Folders
 1. Navigate to an email you want to move to your new folder.
 2. Right click the email to bring up the action menu and select **Move**.
->[!Tip]
- Select multiple messages at once to move emails in bulk quanitities
-3. Choose the desired folder to move the email into.
+!!! tip
+
+    Select multiple messages at once to move emails in bulk quanitities
+
+1. Choose the desired folder to move the email into.
     * If the folder does not appear, type the name in the search box to find it.
     ![Screenshot of menu to move emails into folders](https://hackmd.io/_uploads/SyXc2DS0lg.png)
-4. Repeat these steps to move more emails into your folders.
+2. Repeat these steps to move more emails into your folders.
 
 ### Auto Rules
 
@@ -90,8 +96,9 @@ Auto rules prevent inbox clutter by enforcing which folders certain emails are s
 8. If you want to apply the rule you just created to relevant emails currently in your inbox, select the 'Run this rule now in Inbox' check box, then click 'OK.' Otherwise, click outside of the window to make it disappear.
 
 
->[!Note] 
->When a rule is running, you may notice your inbox changing in realtime. This is normal. All applicable emails are moved to the folder allocated for a certain rule.
+!!! note
+
+    When a rule is running, you may notice your inbox changing in realtime. This is normal. All applicable emails are moved to the folder allocated for a certain rule.
 
 ![Image shows a success screen with an option to run the rule within the current inbox.](https://hackmd.io/_uploads/ry2FTNZy-g.png)
 
@@ -152,8 +159,9 @@ Scheduling emails to be sent at a later time or date is useful for Virginia Tech
 These settings can help unify all of your digital events into one centralized location within Outlook. Outlook's calendar also allows you to set reminders for upcoming events, share your event status/RSVP info with others, and even help manage Teams meetings.
 
 
->[!Tip]
-All of these guides involve importing an ICS file into Outlook, which is a standardized calendar file format. If you choose to move away from Outlook in the future, you can easily import these calendars elsewhere.
+!!! tip
+
+    All of these guides involve importing an ICS file into Outlook, which is a standardized calendar file format. If you choose to move away from Outlook in the future, you can easily import these calendars elsewhere.
 
 
 ### Importing/Syncing Canvas Calendar
@@ -181,14 +189,15 @@ These steps will show you how to import a live calendar into Outlook from Canvas
 
 ### Importing Class Schedule
 
->[!Warning]
-> As of October 9th, 2025, Hokie Registration has replaced Add/Drop.
-> 
-> The prior service allowed users to download an .ics file of their schedule to import into calendar software, but Hokie Registration does not provide a similar feature. 
-> 
-> From here, you have two options outlined below:
-> 1. Use our [open-sourced](https://github.com/shrayus-masanam/VTCalendarBuilder "VT Schedule Builder extension GitHub repository") browser extension to restore the prior functionality
-> 2. Manually create reccuring events for each class
+!!! warning
+
+    As of October 9th, 2025, Hokie Registration has replaced Add/Drop.
+
+    The prior service allowed users to download an .ics file of their schedule to import into calendar software, but Hokie Registration does not provide a similar feature. 
+
+    From here, you have two options outlined below:
+    1. Use our [open-sourced](https://github.com/shrayus-masanam/VTCalendarBuilder "VT Schedule Builder extension GitHub repository") browser extension to restore the prior functionality
+    2. Manually create reccuring events for each class
 
 <br>
 <details>
@@ -218,8 +227,9 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     <br><br>
     8. Click 'Import' to finish. 
 
->[!Note]
->This does not automatically remove classes during holidays, breaks, or finals week. You should verify these events yourself.
+!!! note
+
+    This does not automatically remove classes during holidays, breaks, or finals week. You should verify these events yourself.
 
 </details>
 <br>

@@ -2,7 +2,11 @@ site_name: Microsoft Outlook for Virginia Tech Students
 site_url: https://tomseely.github.io/site
 theme:
   name: material
+  palette:
+    primary: custom
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css

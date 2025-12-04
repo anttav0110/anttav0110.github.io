@@ -205,7 +205,9 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     The prior service allowed users to download an .ics file of their schedule to import into calendar software, but Hokie Registration does not provide a similar feature. 
 
     From here, you have two options outlined below:
+    
     1. Use our [open-sourced](https://github.com/shrayus-masanam/VTCalendarBuilder "VT Schedule Builder extension GitHub repository") browser extension to restore the prior functionality
+    
     2. Manually create reccuring events for each class
 
 <br>

@@ -20,7 +20,6 @@ Our guide aims to show VT students the tools they have available to maximize the
     However, these instructions will primarily focus on the Outlook website and desktop apps. The mobile apps will only be discussed if there are significant differences in the interfaces. 
 
 
-
 ## Table of Contents
 
 - [Microsoft Outlook for Virginia Tech Students](#microsoft-outlook-for-virginia-tech-students)

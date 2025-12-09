@@ -109,12 +109,12 @@ Auto rules prevent inbox clutter by enforcing which folders certain emails are s
 7. With your folder selected, click **OK** to create your rule.
 
 ![VT Promos is selected as the folder. 'VT Promos' folder was created by entering 'VT Promos' as the new folder name in step 6](https://hackmd.io/_uploads/rJ1XyOHAxe.png)
-8. If you want to apply the rule you just created to relevant emails currently in your inbox, select the 'Run this rule now in Inbox' check box, then click 'OK.' Otherwise, click outside of the window to make it disappear.
+8. If you want to apply the rule you just created to relevant emails currently in your inbox, select the **Run this rule now in Inbox** check box, then click **OK**. Otherwise, click outside of the window to make it disappear.
 
 
 !!! note
 
-    When a rule is running, you may notice your inbox changing in realtime. This is normal. All applicable emails are moved to the folder allocated for a certain rule.
+    When a rule is running, you may notice your inbox changing in real time. This is normal. All applicable emails are moved to the folder allocated for a certain rule.
 
 ![Image shows a success screen with an option to run the rule within the current inbox.](https://hackmd.io/_uploads/ry2FTNZy-g.png)
 

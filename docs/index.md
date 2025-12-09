@@ -9,7 +9,7 @@ Our guide aims to show VT students the tools they have available to maximize the
 
 !!! note
 
-    This guide is made with the following Outlook cinterfaces in mind:
+    This guide is made with the following Outlook interfaces in mind:
 
     - Outlook website
 

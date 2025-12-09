@@ -9,7 +9,7 @@ Our guide aims to show VT students the tools they have available to maximize the
 
 !!! note
 
-    This guide is made with the following Outlook interfaces in mind:
+    This guide is made with the following Outlook applications in mind:
 
     - Outlook website
 
@@ -258,10 +258,6 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     <br><br>
     8. Click <strong>Import</strong> to finish. 
 
-!!! note
-
-    This does not automatically remove classes during holidays, breaks, or finals week. You should verify these events yourself.
-
 </details>
 <br>
 <details>
@@ -297,6 +293,11 @@ These steps will show you how to import a live calendar into Outlook from Canvas
     <img src="https://hackmd.io/_uploads/ryLo5HZ1Wl.png" alt="Screenshot of event details with empahsis on the option to delete the particular event"></img>
 </details>
 <br>
+
+
+!!! note
+
+    These methods do not automatically remove classes during holidays, breaks, or finals week. You should verify these events yourself.
 
 ### Importing GobblerConnect Events
 
